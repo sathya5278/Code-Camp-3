@@ -1,11 +1,11 @@
-/Code-Camp-3/target/
-/Code-Camp-3/pom.xml.tag
-/Code-Camp-3/pom.xml.releaseBackup
-/Code-Camp-3/pom.xml.versionsBackup
-/Code-Camp-3/pom.xml.next
-/Code-Camp-3/release.properties
-/Code-Camp-3/dependency-reduced-pom.xml
-/Code-Camp-3/buildNumber.properties
-/Code-Camp-3/.mvn/timing.properties
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 /Code-Camp-3/.mvn/wrapper/maven-wrapper.jar
